@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33987313537",
+    "project_id": "fir-authexams",
+    "storage_bucket": "fir-authexams.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33987313537:android:18d8a55242159a39923280",
+        "android_client_info": {
+          "package_name": "com.example.flutter_exercise_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33987313537-0m1p7k51b98or8t1rd41lo46aolppe3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsSusDllw9xQQ4oav3uHQpE3opc3Tw4PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33987313537-0m1p7k51b98or8t1rd41lo46aolppe3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
